@@ -1,0 +1,776 @@
+JournalNumber,JournalDate,AccountCode,AccountName,Description,Debit,Credit,NetAmount
+388,2026-08-02,090,Business Bank Account,,4130.98,0,4130.98
+388,2026-08-02,840,Historical Adjustment,,0,4130.98,-4130.98
+389,2026-08-12,404,Bank Fees,Bank fee,15,0,15
+389,2026-08-12,090,Business Bank Account,,0,15,-15
+390,2026-08-17,090,Business Bank Account,,0,23.5,-23.5
+390,2026-08-17,820,Sales Tax,,1.79,0,1.79
+390,2026-08-17,461,Printing & Stationery,Misc stationery,21.71,0,21.71
+391,2026-08-19,820,Sales Tax,,2.39,0,2.39
+391,2026-08-19,800,Accounts Payable,,0,31.39,-31.39
+391,2026-08-19,412,Consulting & Accounting,Monthly subscription,29,0,29
+392,2026-08-19,090,Business Bank Account,,0,31.39,-31.39
+392,2026-08-19,800,Accounts Payable,,31.39,0,31.39
+393,2026-08-19,420,Entertainment,Team coffees,16,0,16
+393,2026-08-19,090,Business Bank Account,,0,16,-16
+394,2026-08-21,820,Sales Tax,,0,20.63,-20.63
+394,2026-08-21,610,Accounts Receivable,,270.63,0,270.63
+394,2026-08-21,200,Sales,Project management & implementation - branding workshop with your team,0,250,-250
+395,2026-08-21,200,Sales,Project management & implementation - branding workshop with your team,250,0,250
+395,2026-08-21,610,Accounts Receivable,,0,270.63,-270.63
+395,2026-08-21,820,Sales Tax,,20.63,0,20.63
+396,2026-08-21,610,Accounts Receivable,,250,0,250
+396,2026-08-21,820,Sales Tax,,0,19.05,-19.05
+396,2026-08-21,200,Sales,Project management & implementation - branding workshop with your team,0,230.95,-230.95
+397,2026-08-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+397,2026-08-22,820,Sales Tax,,0,41.25,-41.25
+397,2026-08-22,610,Accounts Receivable,,541.25,0,541.25
+398,2026-08-22,493,Travel - National,Parking for MRE conference,16.63,0,16.63
+398,2026-08-22,493,Travel - National,Breakfast before MRE conference,15.61,0,15.61
+398,2026-08-22,820,Sales Tax,,2.66,0,2.66
+398,2026-08-22,801,Unpaid Expense Claims,,0,34.9,-34.9
+399,2026-08-22,820,Sales Tax,,9.08,0,9.08
+399,2026-08-22,800,Accounts Payable,,0,119.08,-119.08
+399,2026-08-22,445,"Light, Power, Heating",Monthly power supply,110,0,110
+400,2026-08-22,610,Accounts Receivable,,541.25,0,541.25
+400,2026-08-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+400,2026-08-22,820,Sales Tax,,0,41.25,-41.25
+401,2026-08-22,820,Sales Tax,,0,41.25,-41.25
+401,2026-08-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+401,2026-08-22,610,Accounts Receivable,,541.25,0,541.25
+402,2026-08-22,610,Accounts Receivable,,541.25,0,541.25
+402,2026-08-22,820,Sales Tax,,0,41.25,-41.25
+402,2026-08-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+403,2026-08-22,090,Business Bank Account,,0,65.2,-65.2
+403,2026-08-22,820,Sales Tax,,4.97,0,4.97
+403,2026-08-22,453,Office Expenses,Misc kitchen supplies for office,60.23,0,60.23
+404,2026-08-22,800,Accounts Payable,,0,1181.25,-1181.25
+404,2026-08-22,469,Rent,Monthy rent in advance,1091.22,0,1091.22
+404,2026-08-22,820,Sales Tax,,90.03,0,90.03
+405,2026-08-23,820,Sales Tax,,3.42,0,3.42
+405,2026-08-23,800,Accounts Payable,,0,44.92,-44.92
+405,2026-08-23,489,Telephone & Internet,Cable internet,41.5,0,41.5
+406,2026-08-23,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+406,2026-08-23,820,Sales Tax,,0,41.25,-41.25
+406,2026-08-23,610,Accounts Receivable,,541.25,0,541.25
+407,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Customer Support Team (Session 1),400,0,400
+407,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Lending Services Team (Session 2),400,0,400
+407,2026-08-24,820,Sales Tax,,99,0,99
+407,2026-08-24,610,Accounts Receivable,,0,1299,-1299
+407,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Priority Mortgage Services Team (Session 3),400,0,400
+408,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Priority Mortgage Services Team (Session 3),0,400,-400
+408,2026-08-24,820,Sales Tax,,0,99,-99
+408,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Customer Support Team (Session 1),0,400,-400
+408,2026-08-24,610,Accounts Receivable,,1299,0,1299
+408,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Lending Services Team (Session 2),0,400,-400
+409,2026-08-24,610,Accounts Receivable,,433,0,433
+409,2026-08-24,820,Sales Tax,,0,33,-33
+409,2026-08-24,610,Accounts Receivable,,866,0,866
+409,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Priority Mortgage Services Team (Session 3),0,400,-400
+409,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Customer Support Team (Session 1),0,400,-400
+409,2026-08-24,820,Sales Tax,,0,66,-66
+409,2026-08-24,200,Sales,Half day training - Microsoft Office - for your Lending Services Team (Session 2),0,400,-400
+410,2026-08-25,200,Sales,Copies of 'Fish out of Water' text for your Branding Team,47.8,0,47.8
+410,2026-08-25,610,Accounts Receivable,,0,593.23,-593.23
+410,2026-08-25,820,Sales Tax,,45.43,0,45.43
+410,2026-08-25,200,Sales,"Project management & implementation - branding workshop with your team
+========================
+
+- 'Buzz Words' session with your Steering Group
+- Analysis of current marketing materials
+- Workshop on re-brand outcomes and stakeholder identification
+
+- Analysis and presentation of findings to your Steering Group & Board",500,0,500
+411,2026-08-25,820,Sales Tax,,0,45.43,-45.43
+411,2026-08-25,200,Sales,Copies of 'Fish out of Water' text for your Branding Team,0,47.8,-47.8
+411,2026-08-25,610,Accounts Receivable,,593.23,0,593.23
+411,2026-08-25,200,Sales,"Project management & implementation - branding workshop with your team
+========================
+
+- 'Buzz Words' session with your Steering Group
+- Analysis of current marketing materials
+- Workshop on re-brand outcomes and stakeholder identification
+
+- Analysis and presentation of findings to your Steering Group & Board",0,500,-500
+412,2026-08-25,820,Sales Tax,,0,41.25,-41.25
+412,2026-08-25,610,Accounts Receivable,,541.25,0,541.25
+412,2026-08-25,610,Accounts Receivable,,51.98,0,51.98
+412,2026-08-25,200,Sales,Copies of 'Fish out of Water' text for your Branding Team,0,47.8,-47.8
+412,2026-08-25,820,Sales Tax,,0,4.18,-4.18
+412,2026-08-25,200,Sales,"Project management & implementation - branding workshop with your team
+========================
+
+- 'Buzz Words' session with your Steering Group
+- Analysis of current marketing materials
+- Workshop on re-brand outcomes and stakeholder identification
+
+- Analysis and presentation of findings to your Steering Group & Board",0,500,-500
+413,2026-08-26,090,Business Bank Account,,0,50,-50
+413,2026-08-26,429,General Expenses,Bouquet for client,46.19,0,46.19
+413,2026-08-26,820,Sales Tax,,3.81,0,3.81
+414,2026-08-29,090,Business Bank Account,,0,15.6,-15.6
+414,2026-08-29,420,Entertainment,Team coffee,15.6,0,15.6
+415,2026-08-30,820,Sales Tax,,81.06,0,81.06
+415,2026-08-30,800,Accounts Payable,,0,1063.56,-1063.56
+415,2026-08-30,473,Repairs and Maintenance,Photocopier repair & drum replacement,982.5,0,982.5
+416,2026-08-30,610,Accounts Receivable,,0,541.25,-541.25
+416,2026-08-30,200,Sales,Half day training - Microsoft Office,500,0,500
+416,2026-08-30,820,Sales Tax,,41.25,0,41.25
+417,2026-08-30,200,Sales,Half day training - Microsoft Office,0,500,-500
+417,2026-08-30,610,Accounts Receivable,,541.25,0,541.25
+417,2026-08-30,820,Sales Tax,,0,41.25,-41.25
+418,2026-08-30,200,Sales,Half day training - Microsoft Office,0,500,-500
+418,2026-08-30,610,Accounts Receivable,,541.25,0,541.25
+418,2026-08-30,820,Sales Tax,,0,41.25,-41.25
+419,2026-08-31,610,Accounts Receivable,,0,541.25,-541.25
+419,2026-08-31,090,Business Bank Account,,541.25,0,541.25
+420,2026-08-31,610,Accounts Receivable,,0,541.25,-541.25
+420,2026-08-31,090,Business Bank Account,,541.25,0,541.25
+421,2026-08-31,090,Business Bank Account,,0,148.5,-148.5
+421,2026-08-31,449,Motor Vehicle Expenses,Monthly carpark,137.18,0,137.18
+421,2026-08-31,820,Sales Tax,,11.32,0,11.32
+422,2026-08-31,610,Accounts Receivable,,6187.5,0,6187.5
+422,2026-08-31,200,Sales,Onsite project management for CRM Project 3 days/week,0,5715.94,-5715.94
+422,2026-08-31,820,Sales Tax,,0,471.56,-471.56
+423,2026-08-31,090,Business Bank Account,,541.25,0,541.25
+423,2026-08-31,610,Accounts Receivable,,0,541.25,-541.25
+424,2026-08-31,473,Repairs and Maintenance,Replacement hub & network switches,850,0,850
+424,2026-08-31,800,Accounts Payable,,0,1463.88,-1463.88
+424,2026-08-31,453,Office Expenses,Network diagnostics software,500,0,500
+424,2026-08-31,820,Sales Tax,,113.88,0,113.88
+425,2026-08-31,090,Business Bank Account,,541.25,0,541.25
+425,2026-08-31,610,Accounts Receivable,,0,541.25,-541.25
+426,2026-09-01,800,Accounts Payable,,0,59.54,-59.54
+426,2026-09-01,820,Sales Tax,,4.54,0,4.54
+426,2026-09-01,453,Office Expenses,Our share building doorman/security,55,0,55
+427,2026-09-01,400,Advertising,Design concepts for Oaktown Business Leader ad series,2000,0,2000
+427,2026-09-01,800,Accounts Payable,,0,2165,-2165
+427,2026-09-01,820,Sales Tax,,165,0,165
+428,2026-09-01,800,Accounts Payable,,119.08,0,119.08
+428,2026-09-01,090,Business Bank Account,,0,119.08,-119.08
+429,2026-09-01,820,Sales Tax,,0,165,-165
+429,2026-09-01,800,Accounts Payable,,2165,0,2165
+429,2026-09-01,400,Advertising,Design concepts for Oaktown Business Leader ad series,0,2000,-2000
+430,2026-09-01,820,Sales Tax,,9.08,0,9.08
+430,2026-09-01,408,Cleaning,Office Cleaning for month,110,0,110
+430,2026-09-01,800,Accounts Payable,,0,119.08,-119.08
+431,2026-09-01,800,Accounts Payable,,0,2165,-2165
+431,2026-09-01,400,Advertising,Design concepts for Oaktown Business Leader ad series,2000,0,2000
+431,2026-09-01,820,Sales Tax,,165,0,165
+432,2026-09-01,090,Business Bank Account,,0,1181.25,-1181.25
+432,2026-09-01,800,Accounts Payable,,1181.25,0,1181.25
+433,2026-09-01,720,Computer Equipment,Laptop (Oliver),1804.5,0,1804.5
+433,2026-09-01,820,Sales Tax,,148.87,0,148.87
+433,2026-09-01,800,Accounts Payable,,0,1953.37,-1953.37
+434,2026-09-01,800,Accounts Payable,,44.92,0,44.92
+434,2026-09-01,090,Business Bank Account,,0,44.92,-44.92
+435,2026-09-01,400,Advertising,Design concepts for Oaktown Business Leader ad series,0,2000,-2000
+435,2026-09-01,820,Sales Tax,,0,165,-165
+435,2026-09-01,800,Accounts Payable,,2165,0,2165
+436,2026-09-01,090,Business Bank Account,,0,1682.74,-1682.74
+436,2026-09-01,800,Accounts Payable,,1682.74,0,1682.74
+437,2026-09-01,800,Accounts Payable,,0,2000,-2000
+437,2026-09-01,400,Advertising,Design concepts for Oaktown Business Leader ad series,1847.58,0,1847.58
+437,2026-09-01,820,Sales Tax,,152.42,0,152.42
+438,2026-09-01,610,Accounts Receivable,,0,433,-433
+438,2026-09-01,090,Business Bank Account,,433,0,433
+438,2026-09-01,090,Business Bank Account,,866,0,866
+438,2026-09-01,610,Accounts Receivable,,0,866,-866
+439,2026-09-05,610,Accounts Receivable,,0,593.23,-593.23
+439,2026-09-05,090,Business Bank Account,,593.23,0,593.23
+440,2026-09-05,610,Accounts Receivable,,593.23,0,593.23
+440,2026-09-05,090,Business Bank Account,,0,593.23,-593.23
+441,2026-09-05,820,Sales Tax,,0,107.25,-107.25
+441,2026-09-05,200,Sales,Development work - develper onsite per day,0,1300,-1300
+441,2026-09-05,610,Accounts Receivable,,1407.25,0,1407.25
+442,2026-09-05,090,Business Bank Account,,541.25,0,541.25
+442,2026-09-05,610,Accounts Receivable,,0,541.25,-541.25
+442,2026-09-05,090,Business Bank Account,,51.98,0,51.98
+442,2026-09-05,610,Accounts Receivable,,0,51.98,-51.98
+443,2026-09-07,801,Unpaid Expense Claims,,34.9,0,34.9
+443,2026-09-07,090,Business Bank Account,,0,34.9,-34.9
+444,2026-09-07,800,Accounts Payable,,0,270.63,-270.63
+444,2026-09-07,877,Tracking Transfers,,0,270.63,-270.63
+444,2026-09-07,800,Accounts Payable,,270.63,0,270.63
+444,2026-09-07,877,Tracking Transfers,,270.63,0,270.63
+445,2026-09-07,090,Business Bank Account,,0,900,-900
+445,2026-09-07,800,Accounts Payable,,900,0,900
+446,2026-09-07,877,Tracking Transfers,,0,25.44,-25.44
+446,2026-09-07,800,Accounts Payable,,0,25.44,-25.44
+446,2026-09-07,800,Accounts Payable,,25.44,0,25.44
+446,2026-09-07,877,Tracking Transfers,,25.44,0,25.44
+447,2026-09-07,090,Business Bank Account,,0,34.1,-34.1
+447,2026-09-07,800,Accounts Payable,,34.1,0,34.1
+448,2026-09-07,820,Sales Tax,,0,16.5,-16.5
+448,2026-09-07,610,Accounts Receivable,,216.5,0,216.5
+448,2026-09-07,200,Sales,Project management & implementation - branding workshop with your team - follow up session,0,200,-200
+449,2026-09-07,800,Accounts Payable,,270.63,0,270.63
+449,2026-09-07,820,Sales Tax,,0,20.63,-20.63
+449,2026-09-07,453,Office Expenses,Unable to supply DVD writer for laptop - backorder,0,250,-250
+450,2026-09-07,820,Sales Tax,,0,1.94,-1.94
+450,2026-09-07,800,Accounts Payable,,25.44,0,25.44
+450,2026-09-07,453,Office Expenses,Refund as agreed due to window break when guard absent,0,23.5,-23.5
+451,2026-09-07,800,Accounts Payable,,119.08,0,119.08
+451,2026-09-07,090,Business Bank Account,,0,119.08,-119.08
+452,2026-09-10,610,Accounts Receivable,,21.7,0,21.7
+452,2026-09-10,820,Sales Tax,,0,1.75,-1.75
+452,2026-09-10,200,Sales,'Fish out of Water: Finding Your Brand',0,19.95,-19.95
+453,2026-09-10,200,Sales,Half day training - Microsoft Office - operations staff (Session 2),0,500,-500
+453,2026-09-10,200,Sales,Half day training - Microsoft Office - reception staff (Session 1),0,500,-500
+453,2026-09-10,610,Accounts Receivable,,1082.5,0,1082.5
+453,2026-09-10,820,Sales Tax,,0,82.5,-82.5
+454,2026-09-10,877,Tracking Transfers,,0,541.25,-541.25
+454,2026-09-10,877,Tracking Transfers,,541.25,0,541.25
+454,2026-09-10,610,Accounts Receivable,,541.25,0,541.25
+454,2026-09-10,610,Accounts Receivable,,0,541.25,-541.25
+455,2026-09-10,800,Accounts Payable,,1463.88,0,1463.88
+455,2026-09-10,090,Business Bank Account,,0,1463.88,-1463.88
+456,2026-09-10,610,Accounts Receivable,,0,541.25,-541.25
+456,2026-09-10,200,Sales,CREDIT Half day training - Microsoft Office and include in suite of training INV-0013,500,0,500
+456,2026-09-10,820,Sales Tax,,41.25,0,41.25
+457,2026-09-12,200,Sales,Project management & implementation - branding workshop with your team,0,250,-250
+457,2026-09-12,610,Accounts Receivable,,568.31,0,568.31
+457,2026-09-12,200,Sales,Project management & implementation - 'due diligence' stocktake of your project scope/schedule/implementation plan/outcome measures (hourly rate as agreed),0,525,-525
+457,2026-09-12,610,Accounts Receivable,,270.63,0,270.63
+457,2026-09-12,820,Sales Tax,,0,43.31,-43.31
+457,2026-09-12,820,Sales Tax,,0,20.63,-20.63
+458,2026-09-12,800,Accounts Payable,,0,270.63,-270.63
+458,2026-09-12,820,Sales Tax,,20.63,0,20.63
+458,2026-09-12,453,Office Expenses,DVD writer for laptop,250,0,250
+459,2026-09-12,800,Accounts Payable,,270.63,0,270.63
+459,2026-09-12,090,Business Bank Account,,0,270.63,-270.63
+460,2026-09-12,090,Business Bank Account,,0,15,-15
+460,2026-09-12,404,Bank Fees,Bank fee,15,0,15
+461,2026-09-19,800,Accounts Payable,,31.39,0,31.39
+461,2026-09-19,090,Business Bank Account,,0,31.39,-31.39
+462,2026-09-19,820,Sales Tax,,2.39,0,2.39
+462,2026-09-19,412,Consulting & Accounting,Monthly subscription,29,0,29
+462,2026-09-19,800,Accounts Payable,,0,31.39,-31.39
+463,2026-09-19,800,Accounts Payable,,0,216.5,-216.5
+463,2026-09-19,408,Cleaning,Office Cleaning - daily rate,200,0,200
+463,2026-09-19,820,Sales Tax,,16.5,0,16.5
+464,2026-09-22,610,Accounts Receivable,,0,196.78,-196.78
+464,2026-09-22,610,Accounts Receivable,,0,19.72,-19.72
+464,2026-09-22,090,Business Bank Account,,19.72,0,19.72
+464,2026-09-22,090,Business Bank Account,,196.78,0,196.78
+465,2026-09-22,090,Business Bank Account,,0,183.33,-183.33
+465,2026-09-22,610,Accounts Receivable,,384.98,0,384.98
+465,2026-09-22,090,Business Bank Account,,0,384.98,-384.98
+465,2026-09-22,610,Accounts Receivable,,183.33,0,183.33
+466,2026-09-22,090,Business Bank Account,,0,1407.25,-1407.25
+466,2026-09-22,610,Accounts Receivable,,1407.25,0,1407.25
+467,2026-09-22,820,Sales Tax,,0,41.25,-41.25
+467,2026-09-22,610,Accounts Receivable,,541.25,0,541.25
+467,2026-09-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+468,2026-09-22,610,Accounts Receivable,,0,1407.25,-1407.25
+468,2026-09-22,090,Business Bank Account,,1407.25,0,1407.25
+469,2026-09-22,090,Business Bank Account,,384.98,0,384.98
+469,2026-09-22,610,Accounts Receivable,,0,183.33,-183.33
+469,2026-09-22,090,Business Bank Account,,183.33,0,183.33
+469,2026-09-22,610,Accounts Receivable,,0,384.98,-384.98
+470,2026-09-22,820,Sales Tax,,2.6,0,2.6
+470,2026-09-22,453,Office Expenses,Misc kitchen supplies for office,31.5,0,31.5
+470,2026-09-22,090,Business Bank Account,,0,34.1,-34.1
+471,2026-09-22,090,Business Bank Account,,6187.5,0,6187.5
+471,2026-09-22,610,Accounts Receivable,,0,6187.5,-6187.5
+472,2026-09-22,090,Business Bank Account,,6187.5,0,6187.5
+472,2026-09-22,610,Accounts Receivable,,0,6187.5,-6187.5
+473,2026-09-22,800,Accounts Payable,,0,5953.75,-5953.75
+473,2026-09-22,820,Sales Tax,,453.75,0,453.75
+473,2026-09-22,400,Advertising,20-second still frame ad shown in 5 city cinemas 5 times each,5500,0,5500
+474,2026-09-22,610,Accounts Receivable,,1082.5,0,1082.5
+474,2026-09-22,090,Business Bank Account,,0,1082.5,-1082.5
+475,2026-09-22,610,Accounts Receivable,,0,183.33,-183.33
+475,2026-09-22,090,Business Bank Account,,183.33,0,183.33
+475,2026-09-22,090,Business Bank Account,,384.98,0,384.98
+475,2026-09-22,610,Accounts Receivable,,0,384.98,-384.98
+476,2026-09-22,090,Business Bank Account,,0,216.5,-216.5
+476,2026-09-22,610,Accounts Receivable,,216.5,0,216.5
+477,2026-09-22,801,Unpaid Expense Claims,,29.5,0,29.5
+477,2026-09-22,090,Business Bank Account,,0,29.5,-29.5
+478,2026-09-22,610,Accounts Receivable,,541.25,0,541.25
+478,2026-09-22,820,Sales Tax,,0,41.25,-41.25
+478,2026-09-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+479,2026-09-22,090,Business Bank Account,,216.5,0,216.5
+479,2026-09-22,610,Accounts Receivable,,0,216.5,-216.5
+480,2026-09-22,610,Accounts Receivable,,0,1082.5,-1082.5
+480,2026-09-22,090,Business Bank Account,,1082.5,0,1082.5
+481,2026-09-22,610,Accounts Receivable,,6187.5,0,6187.5
+481,2026-09-22,090,Business Bank Account,,0,6187.5,-6187.5
+482,2026-09-22,610,Accounts Receivable,,0,196.78,-196.78
+482,2026-09-22,090,Business Bank Account,,196.78,0,196.78
+482,2026-09-22,090,Business Bank Account,,19.72,0,19.72
+482,2026-09-22,610,Accounts Receivable,,0,19.72,-19.72
+483,2026-09-22,820,Sales Tax,,0,2.6,-2.6
+483,2026-09-22,090,Business Bank Account,,34.1,0,34.1
+483,2026-09-22,429,General Expenses,Misc kitchen supplies for office,0,31.5,-31.5
+484,2026-09-22,800,Accounts Payable,,0,1181.25,-1181.25
+484,2026-09-22,820,Sales Tax,,90.03,0,90.03
+484,2026-09-22,469,Rent,Monthy rent in advance,1091.22,0,1091.22
+485,2026-09-22,090,Business Bank Account,,1082.5,0,1082.5
+485,2026-09-22,610,Accounts Receivable,,0,1082.5,-1082.5
+486,2026-09-22,453,Office Expenses,,27.25,0,27.25
+486,2026-09-22,820,Sales Tax,,2.25,0,2.25
+486,2026-09-22,090,Business Bank Account,,0,29.5,-29.5
+487,2026-09-22,429,General Expenses,Misc kitchen supplies for office,31.5,0,31.5
+487,2026-09-22,090,Business Bank Account,,0,34.1,-34.1
+487,2026-09-22,820,Sales Tax,,2.6,0,2.6
+488,2026-09-22,200,Sales,'Fish out of Water: Finding Your Brand',0,19.95,-19.95
+488,2026-09-22,610,Accounts Receivable,,216.5,0,216.5
+488,2026-09-22,200,Sales,Project management & implementation - branding workshop with your team - follow up,0,200,-200
+488,2026-09-22,820,Sales Tax,,0,16.5,-16.5
+488,2026-09-22,610,Accounts Receivable,,21.7,0,21.7
+488,2026-09-22,820,Sales Tax,,0,1.75,-1.75
+489,2026-09-22,610,Accounts Receivable,,541.25,0,541.25
+489,2026-09-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+489,2026-09-22,820,Sales Tax,,0,41.25,-41.25
+490,2026-09-22,610,Accounts Receivable,,0,1407.25,-1407.25
+490,2026-09-22,090,Business Bank Account,,1407.25,0,1407.25
+491,2026-09-22,800,Accounts Payable,,0,135.85,-135.85
+491,2026-09-22,820,Sales Tax,,10.35,0,10.35
+491,2026-09-22,445,"Light, Power, Heating",Monthly power supply,125.5,0,125.5
+492,2026-09-22,820,Sales Tax,,2.25,0,2.25
+492,2026-09-22,801,Unpaid Expense Claims,,0,29.5,-29.5
+492,2026-09-22,461,Printing & Stationery,Print/bind report,27.25,0,27.25
+493,2026-09-22,090,Business Bank Account,,0,19.72,-19.72
+493,2026-09-22,610,Accounts Receivable,,196.78,0,196.78
+493,2026-09-22,090,Business Bank Account,,0,196.78,-196.78
+493,2026-09-22,610,Accounts Receivable,,19.72,0,19.72
+494,2026-09-22,800,Accounts Payable,,0,1500,-1500
+494,2026-09-22,420,Entertainment,Deposit on venue hire for client function,1500,0,1500
+495,2026-09-22,820,Sales Tax,,0,41.25,-41.25
+495,2026-09-22,200,Sales,"Desktop/network support via email & phone.
+Per month fixed fee for minimum 20 hours/month.",0,500,-500
+495,2026-09-22,610,Accounts Receivable,,541.25,0,541.25
+496,2026-09-23,090,Business Bank Account,,148.5,0,148.5
+496,2026-09-23,449,Motor Vehicle Expenses,Monthly parking,0,137.18,-137.18
+496,2026-09-23,820,Sales Tax,,0,11.32,-11.32
+497,2026-09-23,820,Sales Tax,,11.32,0,11.32
+497,2026-09-23,449,Motor Vehicle Expenses,,137.18,0,137.18
+497,2026-09-23,090,Business Bank Account,,0,148.5,-148.5
+498,2026-09-23,090,Business Bank Account,,0,148.5,-148.5
+498,2026-09-23,820,Sales Tax,,11.32,0,11.32
+498,2026-09-23,449,Motor Vehicle Expenses,Monthly parking,137.18,0,137.18
+499,2026-09-23,800,Accounts Payable,,0,46.82,-46.82
+499,2026-09-23,820,Sales Tax,,3.57,0,3.57
+499,2026-09-23,489,Telephone & Internet,Cable internet,43.25,0,43.25
+500,2026-09-24,090,Business Bank Account,,0,12,-12
+500,2026-09-24,493,Travel - National,,11.09,0,11.09
+500,2026-09-24,820,Sales Tax,,0.91,0,0.91
+501,2026-09-25,461,Printing & Stationery,Misc stationery,45.45,0,45.45
+501,2026-09-25,820,Sales Tax,,3.75,0,3.75
+501,2026-09-25,090,Business Bank Account,,0,49.2,-49.2
+502,2026-09-25,461,Printing & Stationery,Photocopier paper,45.45,0,45.45
+502,2026-09-25,090,Business Bank Account,,0,49.2,-49.2
+502,2026-09-25,820,Sales Tax,,3.75,0,3.75
+503,2026-09-25,090,Business Bank Account,,49.2,0,49.2
+503,2026-09-25,461,Printing & Stationery,Photocopier paper,0,45.45,-45.45
+503,2026-09-25,820,Sales Tax,,0,3.75,-3.75
+504,2026-09-25,090,Business Bank Account,,0,12,-12
+504,2026-09-25,493,Travel - National,,11.09,0,11.09
+504,2026-09-25,820,Sales Tax,,0.91,0,0.91
+505,2026-09-26,800,Accounts Payable,,0,216.5,-216.5
+505,2026-09-26,408,Cleaning,Office Cleaning - daily rate,200,0,200
+505,2026-09-26,820,Sales Tax,,16.5,0,16.5
+506,2026-09-26,090,Business Bank Account,,0,12,-12
+506,2026-09-26,493,Travel - National,,11.09,0,11.09
+506,2026-09-26,820,Sales Tax,,0.91,0,0.91
+507,2026-09-27,877,Tracking Transfers,,19.72,0,19.72
+507,2026-09-27,877,Tracking Transfers,,0,21.7,-21.7
+507,2026-09-27,610,Accounts Receivable,,21.7,0,21.7
+507,2026-09-27,610,Accounts Receivable,,0,19.72,-19.72
+507,2026-09-27,877,Tracking Transfers,,1.98,0,1.98
+507,2026-09-27,610,Accounts Receivable,,0,1.98,-1.98
+508,2026-09-27,200,Sales,'Fish out of Water: Finding Your Brand' - credit - charged in error - should be included overall project,19.95,0,19.95
+508,2026-09-27,610,Accounts Receivable,,0,21.7,-21.7
+508,2026-09-27,820,Sales Tax,,1.75,0,1.75
+509,2026-09-27,090,Business Bank Account,,0,12,-12
+509,2026-09-27,493,Travel - National,,11.09,0,11.09
+509,2026-09-27,820,Sales Tax,,0.91,0,0.91
+510,2026-09-29,090,Business Bank Account,,0,12,-12
+510,2026-09-29,493,Travel - National,,11.09,0,11.09
+510,2026-09-29,820,Sales Tax,,0.91,0,0.91
+511,2026-09-30,090,Business Bank Account,,0,12,-12
+511,2026-09-30,493,Travel - National,,11.09,0,11.09
+511,2026-09-30,820,Sales Tax,,0.91,0,0.91
+512,2026-10-01,420,Entertainment,Staff coffees,0,22,-22
+512,2026-10-01,090,Business Bank Account,,22,0,22
+513,2026-10-01,090,Business Bank Account,,0,69.5,-69.5
+513,2026-10-01,473,Repairs and Maintenance,Emergency locksmith - front office door,64.2,0,64.2
+513,2026-10-01,820,Sales Tax,,5.3,0,5.3
+514,2026-10-01,820,Sales Tax,,5.3,0,5.3
+514,2026-10-01,090,Business Bank Account,,0,69.5,-69.5
+514,2026-10-01,473,Repairs and Maintenance,,64.2,0,64.2
+515,2026-10-01,090,Business Bank Account,,0,22,-22
+515,2026-10-01,420,Entertainment,,22,0,22
+516,2026-10-01,610,Accounts Receivable,,6187.5,0,6187.5
+516,2026-10-01,820,Sales Tax,,0,471.56,-471.56
+516,2026-10-01,200,Sales,Onsite project management for CRM Project 3 days/week,0,5715.94,-5715.94
+517,2026-10-01,420,Entertainment,Staff coffees,22,0,22
+517,2026-10-01,090,Business Bank Account,,0,22,-22
+518,2026-10-01,473,Repairs and Maintenance,Emergency locksmith - front office door,0,64.2,-64.2
+518,2026-10-01,090,Business Bank Account,,69.5,0,69.5
+518,2026-10-01,820,Sales Tax,,0,5.3,-5.3
+519,2026-10-01,090,Business Bank Account,,0,12,-12
+519,2026-10-01,493,Travel - National,,11.09,0,11.09
+519,2026-10-01,820,Sales Tax,,0.91,0,0.91
+520,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+520,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+521,2026-10-02,800,Accounts Payable,,0,1181.25,-1181.25
+521,2026-10-02,090,Business Bank Account,,1181.25,0,1181.25
+522,2026-10-02,090,Business Bank Account,,0,46.82,-46.82
+522,2026-10-02,800,Accounts Payable,,46.82,0,46.82
+523,2026-10-02,800,Accounts Payable,,0,1500,-1500
+523,2026-10-02,090,Business Bank Account,,1500,0,1500
+524,2026-10-02,090,Business Bank Account,,0,541.25,-541.25
+524,2026-10-02,610,Accounts Receivable,,541.25,0,541.25
+525,2026-10-02,090,Business Bank Account,,0,135.85,-135.85
+525,2026-10-02,800,Accounts Payable,,135.85,0,135.85
+526,2026-10-02,800,Accounts Payable,,1181.25,0,1181.25
+526,2026-10-02,090,Business Bank Account,,0,1181.25,-1181.25
+527,2026-10-02,090,Business Bank Account,,0,1500,-1500
+527,2026-10-02,800,Accounts Payable,,1500,0,1500
+528,2026-10-02,800,Accounts Payable,,1181.25,0,1181.25
+528,2026-10-02,090,Business Bank Account,,0,1181.25,-1181.25
+529,2026-10-02,090,Business Bank Account,,0,541.25,-541.25
+529,2026-10-02,610,Accounts Receivable,,541.25,0,541.25
+530,2026-10-02,710,Office Equipment,Coffee table for reception,923.79,0,923.79
+530,2026-10-02,800,Accounts Payable,,0,1000,-1000
+530,2026-10-02,820,Sales Tax,,76.21,0,76.21
+531,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+531,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+532,2026-10-02,090,Business Bank Account,,0,541.25,-541.25
+532,2026-10-02,610,Accounts Receivable,,541.25,0,541.25
+533,2026-10-02,800,Accounts Payable,,46.82,0,46.82
+533,2026-10-02,090,Business Bank Account,,0,46.82,-46.82
+534,2026-10-02,800,Accounts Payable,,0,5953.75,-5953.75
+534,2026-10-02,090,Business Bank Account,,5953.75,0,5953.75
+535,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+535,2026-10-02,610,Accounts Receivable,,541.25,0,541.25
+535,2026-10-02,877,Tracking Transfers,,0,541.25,-541.25
+535,2026-10-02,877,Tracking Transfers,,541.25,0,541.25
+536,2026-10-02,610,Accounts Receivable,,541.25,0,541.25
+536,2026-10-02,090,Business Bank Account,,0,541.25,-541.25
+537,2026-10-02,820,Sales Tax,,41.25,0,41.25
+537,2026-10-02,200,Sales,Full credit - DUPLICATE of INV-0001,500,0,500
+537,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+538,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+538,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+539,2026-10-02,453,Office Expenses,Our share building doorman/security,55,0,55
+539,2026-10-02,820,Sales Tax,,4.54,0,4.54
+539,2026-10-02,800,Accounts Payable,,0,59.54,-59.54
+540,2026-10-02,090,Business Bank Account,,0,1500,-1500
+540,2026-10-02,800,Accounts Payable,,1500,0,1500
+541,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+541,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+542,2026-10-02,090,Business Bank Account,,0,135.85,-135.85
+542,2026-10-02,800,Accounts Payable,,135.85,0,135.85
+543,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+543,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+544,2026-10-02,800,Accounts Payable,,1000,0,1000
+544,2026-10-02,090,Business Bank Account,,0,1000,-1000
+545,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+545,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+546,2026-10-02,800,Accounts Payable,,0,46.82,-46.82
+546,2026-10-02,090,Business Bank Account,,46.82,0,46.82
+547,2026-10-02,090,Business Bank Account,,0,5953.75,-5953.75
+547,2026-10-02,800,Accounts Payable,,5953.75,0,5953.75
+548,2026-10-02,090,Business Bank Account,,0,5953.75,-5953.75
+548,2026-10-02,800,Accounts Payable,,5953.75,0,5953.75
+549,2026-10-02,090,Business Bank Account,,135.85,0,135.85
+549,2026-10-02,800,Accounts Payable,,0,135.85,-135.85
+550,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+550,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+551,2026-10-02,610,Accounts Receivable,,0,541.25,-541.25
+551,2026-10-02,090,Business Bank Account,,541.25,0,541.25
+552,2026-10-02,090,Business Bank Account,,0,12,-12
+552,2026-10-02,493,Travel - National,,11.09,0,11.09
+552,2026-10-02,820,Sales Tax,,0.91,0,0.91
+553,2026-10-03,090,Business Bank Account,,0,29.5,-29.5
+553,2026-10-03,801,Unpaid Expense Claims,,29.5,0,29.5
+554,2026-10-03,090,Business Bank Account,,29.5,0,29.5
+554,2026-10-03,801,Unpaid Expense Claims,,0,29.5,-29.5
+555,2026-10-03,800,Accounts Payable,,0,216.5,-216.5
+555,2026-10-03,408,Cleaning,Office Cleaning - daily rate,200,0,200
+555,2026-10-03,820,Sales Tax,,16.5,0,16.5
+556,2026-10-03,090,Business Bank Account,,0,12,-12
+556,2026-10-03,493,Travel - National,,11.09,0,11.09
+556,2026-10-03,820,Sales Tax,,0.91,0,0.91
+557,2026-10-04,461,Printing & Stationery,Print/bind report,27.25,0,27.25
+557,2026-10-04,090,Business Bank Account,,0,29.5,-29.5
+557,2026-10-04,820,Sales Tax,,2.25,0,2.25
+558,2026-10-04,090,Business Bank Account,,29.5,0,29.5
+558,2026-10-04,461,Printing & Stationery,Print/bind report,0,27.25,-27.25
+558,2026-10-04,820,Sales Tax,,0,2.25,-2.25
+559,2026-10-04,800,Accounts Payable,,216.5,0,216.5
+559,2026-10-04,090,Business Bank Account,,0,216.5,-216.5
+560,2026-10-05,090,Business Bank Account,,0,12,-12
+560,2026-10-05,493,Travel - National,,11.09,0,11.09
+560,2026-10-05,820,Sales Tax,,0.91,0,0.91
+561,2026-10-07,610,Accounts Receivable,,324.75,0,324.75
+561,2026-10-07,200,Sales,Website creation,0,300,-300
+561,2026-10-07,820,Sales Tax,,0,24.75,-24.75
+562,2026-10-07,610,Accounts Receivable,,104.4,0,104.4
+562,2026-10-07,200,Sales,Golf Balls,0,96,-96
+562,2026-10-07,820,Sales Tax,,0,8.4,-8.4
+563,2026-10-07,090,Business Bank Account,,0,12,-12
+563,2026-10-07,493,Travel - National,,11.09,0,11.09
+563,2026-10-07,820,Sales Tax,,0.91,0,0.91
+564,2026-10-07,090,Business Bank Account,,0,12,-12
+564,2026-10-07,493,Travel - National,,11.09,0,11.09
+564,2026-10-07,820,Sales Tax,,0.91,0,0.91
+565,2026-10-07,090,Business Bank Account,,0,6,-6
+565,2026-10-07,453,Office Expenses,Misc corner store,5.54,0,5.54
+565,2026-10-07,820,Sales Tax,,0.46,0,0.46
+566,2026-10-10,800,Accounts Payable,,0,216.5,-216.5
+566,2026-10-10,408,Cleaning,Office Cleaning - daily rate,200,0,200
+566,2026-10-10,820,Sales Tax,,16.5,0,16.5
+567,2026-10-11,800,Accounts Payable,,216.5,0,216.5
+567,2026-10-11,090,Business Bank Account,,0,216.5,-216.5
+568,2026-10-11,090,Business Bank Account,,0,12.5,-12.5
+568,2026-10-11,453,Office Expenses,Misc corner store,11.55,0,11.55
+568,2026-10-11,820,Sales Tax,,0.95,0,0.95
+569,2026-10-12,820,Sales Tax,,177.96,0,177.96
+569,2026-10-12,800,Accounts Payable,,0,2335,-2335
+569,2026-10-12,400,Advertising,Prototype media banner & print mockups for Oaktown Business Leader ad series,2157.04,0,2157.04
+570,2026-10-12,800,Accounts Payable,,0,2335,-2335
+570,2026-10-12,400,Advertising,Prototype media banner & print mockups for Oaktown Business Leader ad series,2157.04,0,2157.04
+570,2026-10-12,820,Sales Tax,,177.96,0,177.96
+571,2026-10-12,400,Advertising,Prototype media banner & print mockups for Oaktown Business Leader ad series,0,2157.04,-2157.04
+571,2026-10-12,820,Sales Tax,,0,177.96,-177.96
+571,2026-10-12,800,Accounts Payable,,2335,0,2335
+572,2026-10-12,800,Accounts Payable,,0,1181.25,-1181.25
+572,2026-10-12,469,Rent,Monthy rent in advance,1091.22,0,1091.22
+572,2026-10-12,820,Sales Tax,,90.03,0,90.03
+573,2026-10-12,400,Advertising,Prototype media banner & print mockups for Oaktown Business Leader ad series,0,2157.04,-2157.04
+573,2026-10-12,800,Accounts Payable,,2335,0,2335
+573,2026-10-12,820,Sales Tax,,0,177.96,-177.96
+574,2026-10-12,400,Advertising,Prototype media banner & print mockups for Oaktown Business Leader ad series,2309.47,0,2309.47
+574,2026-10-12,820,Sales Tax,,190.53,0,190.53
+574,2026-10-12,800,Accounts Payable,,0,2500,-2500
+575,2026-10-12,090,Business Bank Account,,0,1181.25,-1181.25
+575,2026-10-12,800,Accounts Payable,,1181.25,0,1181.25
+576,2026-10-12,610,Accounts Receivable,,541.25,0,541.25
+576,2026-10-12,200,Sales,Half day training - Microsoft Office - Marketing team,0,500,-500
+576,2026-10-12,820,Sales Tax,,0,41.25,-41.25
+577,2026-10-12,090,Business Bank Account,,0,12,-12
+577,2026-10-12,493,Travel - National,,11.09,0,11.09
+577,2026-10-12,820,Sales Tax,,0.91,0,0.91
+578,2026-10-12,800,Accounts Payable,,216.5,0,216.5
+578,2026-10-12,090,Business Bank Account,,0,216.5,-216.5
+579,2026-10-12,090,Business Bank Account,,0,5.5,-5.5
+579,2026-10-12,453,Office Expenses,Misc corner store,5.08,0,5.08
+579,2026-10-12,820,Sales Tax,,0.42,0,0.42
+580,2026-10-14,090,Business Bank Account,,0,4,-4
+580,2026-10-14,453,Office Expenses,Misc corner store,3.7,0,3.7
+580,2026-10-14,820,Sales Tax,,0.3,0,0.3
+581,2026-10-15,610,Accounts Receivable,,2240.78,0,2240.78
+581,2026-10-15,200,Sales,Development work - software integration,0,2070,-2070
+581,2026-10-15,820,Sales Tax,,0,170.78,-170.78
+582,2026-10-15,610,Accounts Receivable,,3897,0,3897
+582,2026-10-15,200,Sales,Development work - software integration,0,3600,-3600
+582,2026-10-15,820,Sales Tax,,0,297,-297
+583,2026-10-15,090,Business Bank Account,,0,12,-12
+583,2026-10-15,493,Travel - National,,11.09,0,11.09
+583,2026-10-15,820,Sales Tax,,0.91,0,0.91
+584,2026-10-15,610,Accounts Receivable,,0,104.4,-104.4
+584,2026-10-15,090,Business Bank Account,,104.4,0,104.4
+585,2026-10-17,800,Accounts Payable,,0,130,-130
+585,2026-10-17,820,Sales Tax,,9.91,0,9.91
+585,2026-10-17,429,General Expenses,Room hire,120.09,0,120.09
+586,2026-10-17,404,Bank Fees,Bank fee,15,0,15
+586,2026-10-17,090,Business Bank Account,,0,15,-15
+587,2026-10-17,610,Accounts Receivable,,703.63,0,703.63
+587,2026-10-17,820,Sales Tax,,0,53.63,-53.63
+587,2026-10-17,200,Sales,Development work - develper onsite per day,0,650,-650
+588,2026-10-17,800,Accounts Payable,,0,2132.51,-2132.51
+588,2026-10-17,720,Computer Equipment,Laptop (Tracy),1969.99,0,1969.99
+588,2026-10-17,820,Sales Tax,,162.52,0,162.52
+589,2026-10-17,404,Bank Fees,Bank fee,0,15,-15
+589,2026-10-17,090,Business Bank Account,,15,0,15
+590,2026-10-17,800,Accounts Payable,,0,216.5,-216.5
+590,2026-10-17,408,Cleaning,Office Cleaning - daily rate,200,0,200
+590,2026-10-17,820,Sales Tax,,16.5,0,16.5
+591,2026-10-17,800,Accounts Payable,,216.5,0,216.5
+591,2026-10-17,090,Business Bank Account,,0,216.5,-216.5
+592,2026-10-18,820,Sales Tax,,31.35,0,31.35
+592,2026-10-18,800,Accounts Payable,,0,411.35,-411.35
+592,2026-10-18,449,Motor Vehicle Expenses,Annual service company car,380,0,380
+593,2026-10-18,090,Business Bank Account,,0,12,-12
+593,2026-10-18,453,Office Expenses,Misc corner store,11.09,0,11.09
+593,2026-10-18,820,Sales Tax,,0.91,0,0.91
+594,2026-10-18,090,Business Bank Account,,0,12,-12
+594,2026-10-18,493,Travel - National,,11.09,0,11.09
+594,2026-10-18,820,Sales Tax,,0.91,0,0.91
+595,2026-10-18,090,Business Bank Account,,0,8,-8
+595,2026-10-18,453,Office Expenses,Misc corner store,7.39,0,7.39
+595,2026-10-18,820,Sales Tax,,0.61,0,0.61
+596,2026-10-18,610,Accounts Receivable,,0,324.75,-324.75
+596,2026-10-18,090,Business Bank Account,,324.75,0,324.75
+597,2026-10-19,425,Freight & Courier,Delivery of new reception desk,115.5,0,115.5
+597,2026-10-19,800,Accounts Payable,,0,125.03,-125.03
+597,2026-10-19,820,Sales Tax,,9.53,0,9.53
+598,2026-10-19,800,Accounts Payable,,0,31.39,-31.39
+598,2026-10-19,820,Sales Tax,,2.39,0,2.39
+598,2026-10-19,412,Consulting & Accounting,Monthly subscription,29,0,29
+599,2026-10-19,800,Accounts Payable,,411.35,0,411.35
+599,2026-10-19,090,Business Bank Account,,0,411.35,-411.35
+600,2026-10-19,610,Accounts Receivable,,0,3897,-3897
+600,2026-10-19,090,Business Bank Account,,3897,0,3897
+601,2026-10-19,610,Accounts Receivable,,0,541.25,-541.25
+601,2026-10-19,090,Business Bank Account,,541.25,0,541.25
+602,2026-10-20,300,Purchases,Golf balls - white single,775.98,0,775.98
+602,2026-10-20,800,Accounts Payable,,0,840,-840
+602,2026-10-20,820,Sales Tax,,64.02,0,64.02
+603,2026-10-21,090,Business Bank Account,,0,12,-12
+603,2026-10-21,493,Travel - National,,11.09,0,11.09
+603,2026-10-21,820,Sales Tax,,0.91,0,0.91
+604,2026-10-21,610,Accounts Receivable,,0,2240.78,-2240.78
+604,2026-10-21,090,Business Bank Account,,2240.78,0,2240.78
+605,2026-10-22,090,Business Bank Account,,1181.25,0,1181.25
+605,2026-10-22,800,Accounts Payable,,0,1181.25,-1181.25
+606,2026-10-22,610,Accounts Receivable,,396,0,396
+606,2026-10-22,200,Sales,Marketing guides,0,365.82,-365.82
+606,2026-10-22,820,Sales Tax,,0,30.18,-30.18
+607,2026-10-22,820,Sales Tax,,75.46,0,75.46
+607,2026-10-22,200,Sales,Project team meeting to discuss dev changes required to your online gift basket ordering system,464.55,0,464.55
+607,2026-10-22,610,Accounts Receivable,,0,990.01,-990.01
+607,2026-10-22,200,Sales,Development work - per hour rate,450,0,450
+608,2026-10-22,800,Accounts Payable,,0,411.35,-411.35
+608,2026-10-22,449,Motor Vehicle Expenses,Annual service company car,380,0,380
+608,2026-10-22,820,Sales Tax,,31.35,0,31.35
+609,2026-10-22,090,Business Bank Account,,0,1181.25,-1181.25
+609,2026-10-22,800,Accounts Payable,,1181.25,0,1181.25
+610,2026-10-22,200,Sales,Project team meeting to discuss dev changes required to your online gift basket ordering system,0,464.55,-464.55
+610,2026-10-22,610,Accounts Receivable,,990.01,0,990.01
+610,2026-10-22,820,Sales Tax,,0,75.46,-75.46
+610,2026-10-22,200,Sales,Development work - per hour rate,0,450,-450
+611,2026-10-22,445,"Light, Power, Heating",Monthly power supply,100.32,0,100.32
+611,2026-10-22,820,Sales Tax,,8.28,0,8.28
+611,2026-10-22,800,Accounts Payable,,0,108.6,-108.6
+612,2026-10-22,200,Sales,Development work - per hour rate,0,434.18,-434.18
+612,2026-10-22,200,Sales,Project team meeting to discuss dev changes required to your online gift basket ordering system,0,410.67,-410.67
+612,2026-10-22,610,Accounts Receivable,,914.55,0,914.55
+612,2026-10-22,820,Sales Tax,,0,69.7,-69.7
+613,2026-10-22,610,Accounts Receivable,,224,0,224
+613,2026-10-22,200,Sales,Golf balls - white single,0,206.93,-206.93
+613,2026-10-22,820,Sales Tax,,0,17.07,-17.07
+614,2026-10-22,820,Sales Tax,,0,17.07,-17.07
+614,2026-10-22,610,Accounts Receivable,,234,0,234
+614,2026-10-22,425,Freight & Courier,Delivery charge,0,10,-10
+614,2026-10-22,200,Sales,Golf balls - white single,0,206.93,-206.93
+615,2026-10-22,449,Motor Vehicle Expenses,Annual service company car,0,380,-380
+615,2026-10-22,800,Accounts Payable,,411.35,0,411.35
+615,2026-10-22,820,Sales Tax,,0,31.35,-31.35
+616,2026-10-22,610,Accounts Receivable,,0,914.55,-914.55
+616,2026-10-22,200,Sales,Development work - per hour rate,434.18,0,434.18
+616,2026-10-22,820,Sales Tax,,69.7,0,69.7
+616,2026-10-22,200,Sales,Project team meeting to discuss dev changes required to your online gift basket ordering system,410.67,0,410.67
+617,2026-10-22,610,Accounts Receivable,,914.55,0,914.55
+617,2026-10-22,200,Sales,Project team meeting to discuss dev changes required to your online gift basket ordering system,0,410.67,-410.67
+617,2026-10-22,820,Sales Tax,,0,69.7,-69.7
+617,2026-10-22,200,Sales,Development work - per hour rate,0,434.18,-434.18
+618,2026-10-22,800,Accounts Payable,,0,1181.25,-1181.25
+618,2026-10-22,820,Sales Tax,,90.03,0,90.03
+618,2026-10-22,469,Rent,Monthy rent in advance,1091.22,0,1091.22
+619,2026-10-22,820,Sales Tax,,17.07,0,17.07
+619,2026-10-22,610,Accounts Receivable,,0,224,-224
+619,2026-10-22,200,Sales,Golf balls - white single,206.93,0,206.93
+620,2026-10-22,453,Office Expenses,Battery pack & power cable for home office,107.11,0,107.11
+620,2026-10-22,820,Sales Tax,,8.84,0,8.84
+620,2026-10-22,801,Unpaid Expense Claims,,0,115.95,-115.95
+621,2026-10-22,800,Accounts Payable,,1181.25,0,1181.25
+621,2026-10-22,820,Sales Tax,,0,90.03,-90.03
+621,2026-10-22,469,Rent,Monthy rent in advance,0,1091.22,-1091.22
+622,2026-10-22,453,Office Expenses,Battery pack & power cable for home office,0,107.11,-107.11
+622,2026-10-22,820,Sales Tax,,0,8.84,-8.84
+622,2026-10-22,801,Unpaid Expense Claims,,115.95,0,115.95
+623,2026-10-22,801,Unpaid Expense Claims,,0,115.95,-115.95
+623,2026-10-22,453,Office Expenses,Battery pack & power cable for home office,107.11,0,107.11
+623,2026-10-22,820,Sales Tax,,8.84,0,8.84
+624,2026-10-22,800,Accounts Payable,,216.5,0,216.5
+624,2026-10-22,090,Business Bank Account,,0,216.5,-216.5
+625,2026-10-23,820,Sales Tax,,0,11.32,-11.32
+625,2026-10-23,090,Business Bank Account,,148.5,0,148.5
+625,2026-10-23,449,Motor Vehicle Expenses,Parking monthly,0,137.18,-137.18
+626,2026-10-23,820,Sales Tax,,4.13,0,4.13
+626,2026-10-23,800,Accounts Payable,,0,54.13,-54.13
+626,2026-10-23,489,Telephone & Internet,Cable internet,50,0,50
+627,2026-10-23,493,Travel - National,Taxi services,38.8,0,38.8
+627,2026-10-23,800,Accounts Payable,,0,42,-42
+627,2026-10-23,820,Sales Tax,,3.2,0,3.2
+628,2026-10-23,449,Motor Vehicle Expenses,Parking monthly,137.18,0,137.18
+628,2026-10-23,090,Business Bank Account,,0,148.5,-148.5
+628,2026-10-23,820,Sales Tax,,11.32,0,11.32
+629,2026-10-23,449,Motor Vehicle Expenses,Parking monthly,0,137.18,-137.18
+629,2026-10-23,820,Sales Tax,,0,11.32,-11.32
+629,2026-10-23,090,Business Bank Account,,148.5,0,148.5
+630,2026-10-23,820,Sales Tax,,0,3.2,-3.2
+630,2026-10-23,493,Travel - National,Taxi services,0,38.8,-38.8
+630,2026-10-23,800,Accounts Payable,,42,0,42
+631,2026-10-23,493,Travel - National,Taxi services,223.56,0,223.56
+631,2026-10-23,800,Accounts Payable,,0,242,-242
+631,2026-10-23,820,Sales Tax,,18.44,0,18.44
+632,2026-10-23,449,Motor Vehicle Expenses,Parking monthly,137.18,0,137.18
+632,2026-10-23,090,Business Bank Account,,0,148.5,-148.5
+632,2026-10-23,820,Sales Tax,,11.32,0,11.32
+633,2026-10-23,090,Business Bank Account,,0,6,-6
+633,2026-10-23,453,Office Expenses,Misc corner store,5.54,0,5.54
+633,2026-10-23,820,Sales Tax,,0.46,0,0.46
+634,2026-10-23,090,Business Bank Account,,0,110,-110
+634,2026-10-23,489,Telephone & Internet,,101.62,0,101.62
+634,2026-10-23,820,Sales Tax,,8.38,0,8.38
+635,2026-10-29,800,Accounts Payable,,411.35,0,411.35
+635,2026-10-29,090,Business Bank Account,,0,411.35,-411.35
+636,2026-10-29,090,Business Bank Account,,411.35,0,411.35
+636,2026-10-29,800,Accounts Payable,,0,411.35,-411.35
+637,2026-11-01,820,Sales Tax,,4.54,0,4.54
+637,2026-11-01,800,Accounts Payable,,0,59.54,-59.54
+637,2026-11-01,453,Office Expenses,Our share building doorman/security,55,0,55
+638,2026-11-01,453,Office Expenses,Our share building doorman/security,0,55,-55
+638,2026-11-01,820,Sales Tax,,0,4.54,-4.54
+638,2026-11-01,800,Accounts Payable,,59.54,0,59.54
+639,2026-11-19,820,Sales Tax,,2.39,0,2.39
+639,2026-11-19,800,Accounts Payable,,0,31.39,-31.39
+639,2026-11-19,412,Consulting & Accounting,Monthly subscription,29,0,29
+640,2026-11-19,800,Accounts Payable,,31.39,0,31.39
+640,2026-11-19,412,Consulting & Accounting,Monthly subscription,0,29,-29
+640,2026-11-19,820,Sales Tax,,0,2.39,-2.39
+641,2026-11-22,820,Sales Tax,,90.03,0,90.03
+641,2026-11-22,469,Rent,Monthy rent in advance,1091.22,0,1091.22
+641,2026-11-22,800,Accounts Payable,,0,1181.25,-1181.25
+642,2026-11-22,800,Accounts Payable,,1181.25,0,1181.25
+642,2026-11-22,820,Sales Tax,,0,90.03,-90.03
+642,2026-11-22,469,Rent,Monthy rent in advance,0,1091.22,-1091.22
+643,2026-12-02,800,Accounts Payable,,59.54,0,59.54
+643,2026-12-02,820,Sales Tax,,0,4.54,-4.54
+643,2026-12-02,453,Office Expenses,Our share building doorman/security,0,55,-55
+644,2026-12-02,453,Office Expenses,Our share building doorman/security,55,0,55
+644,2026-12-02,820,Sales Tax,,4.54,0,4.54
+644,2026-12-02,800,Accounts Payable,,0,59.54,-59.54
+645,2026-12-20,800,Accounts Payable,,0,31.39,-31.39
+645,2026-12-20,412,Consulting & Accounting,Monthly subscription,29,0,29
+645,2026-12-20,820,Sales Tax,,2.39,0,2.39
+646,2026-12-20,412,Consulting & Accounting,Monthly subscription,0,29,-29
+646,2026-12-20,820,Sales Tax,,0,2.39,-2.39
+646,2026-12-20,800,Accounts Payable,,31.39,0,31.39
+647,2026-12-23,820,Sales Tax,,90.03,0,90.03
+647,2026-12-23,800,Accounts Payable,,0,1181.25,-1181.25
+647,2026-12-23,469,Rent,Monthy rent in advance,1091.22,0,1091.22
+648,2026-12-23,800,Accounts Payable,,1181.25,0,1181.25
+648,2026-12-23,820,Sales Tax,,0,90.03,-90.03
+648,2026-12-23,469,Rent,Monthy rent in advance,0,1091.22,-1091.22
+651,2026-10-23,630,Inventory,,0,80,-80
+651,2026-10-23,630,Inventory,,80,0,80
+651,2026-10-23,630,Inventory,,0,100,-100
+651,2026-10-23,630,Inventory,,140,0,140
+651,2026-10-23,630,Inventory,,100,0,100
+651,2026-10-23,630,Inventory,,0,140,-140
