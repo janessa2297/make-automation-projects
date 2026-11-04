@@ -143,4 +143,58 @@ The workflow demonstrates working integration between Make.com, Xero, and Asana.
 
 ---
 
+---
+
+## Project Files & Evidence
+
+The following files demonstrate the workflow architecture, implementation, and sample financial report output.
+
+### Workflow Screenshot
+
+![Make.com Xero to Asana Workflow](workflow-overview.png)
+
+The workflow connects Asana, Xero, Make.com Data Stores, pagination controls, iterators, and CSV generation to automate financial reporting.
+
+### Make.com Blueprint
+
+**[View Make.com Automation Blueprint](xero-asana-automation.json)**
+
+The JSON blueprint documents the scenario configuration. Connection details must be reconfigured when importing it into another Make.com account.
+
+### Sample CSV Report
+
+**[View Corrected Sample CSV Report](xero-journals-2026-corrected-sample.csv)**
+
+This CSV contains journal data captured from the Xero demo environment, with post-processing corrections to the debit and credit columns.
+
+**Important:** This corrected sample is not the original file uploaded to Asana. Financial accuracy and reconciliation against Xero's source reports remain unverified.
+
+## Execution Evidence
+
+A Make.com execution on November 3, 2026, confirmed:
+
+- Successful retrieval of Xero journal records.
+- Successful processing of journal data.
+- Successful CSV generation.
+- Successful Asana attachment upload.
+- An attachment identifier returned by Asana.
+
+**Integration status:** Successful end-to-end execution.
+
+**Financial data validation:** Pending.
+
+## Known Limitations
+
+- The automation uses a fixed 2026 reporting period.
+- Pagination is currently limited to three configured repetitions.
+- Debit and credit calculations in the original generated CSV require correction.
+- Full accounting reconciliation and date validation have not been completed.
+- The Asana trial expired, limiting subsequent access to the uploaded attachment.
+
+## Portfolio Summary
+
+This project demonstrates practical experience in API integration, workflow automation, data transformation, pagination, CSV reporting, and end-to-end integration testing.
+
+The automation is a portfolio demonstration and is not presented as a production-ready financial reporting system.
+
 *Portfolio demonstration using Make.com, Xero Demo Company, and Asana. Not intended as a production-ready accounting report.*
