@@ -258,7 +258,7 @@ The original AI classification prompt was restored after testing.
 
 ![Fallback Notification](images/fallback-email-notification.png)
 
----
+---.
 
 ## Business Value
 
