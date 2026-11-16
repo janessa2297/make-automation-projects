@@ -157,7 +157,9 @@ The support team receives a manual classification notification, allowing staff t
 
 ## AI Configuration
 
-![Gemini AI Configuration](images/gemini-ai-configuration.png)
+![Gemini AI Configuration Part 1](images/gemini-ai-configuration-01.png)
+
+![Gemini AI Configuration Part 2](images/gemini-ai-configuration-02.png)
 
 The AI prompt includes classification rules and response-generation safeguards.
 
