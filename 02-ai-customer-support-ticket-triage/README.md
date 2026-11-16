@@ -250,17 +250,17 @@ The original AI classification prompt was restored after testing.
 
 #### Fallback Execution Evidence
 
-![Fallback Execution](images/fallback-execution-success.png)
+![Fallback Execution](<images/Successful Fallback execution.PNG>)
 
 #### Fallback Database Validation
 
-![Fallback Database Validation](images/fallback-database-validation.png)
+![Fallback Database Validation](<images/Fallback database validation.png>)
 
 #### Fallback Email Notification
 
-![Fallback Notification](images/fallback-email-notification.png)
+![Fallback Notification](<images/Fallback email notification.png>)
 
----.
+----
 
 ## Business Value
 
